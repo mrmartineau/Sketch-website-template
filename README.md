@@ -1,3 +1,3 @@
-# Responsive website design template for [Sketch 3](http://bohemiancoding.com/sketch/)
+### Responsive website design template for [Sketch 3](http://bohemiancoding.com/sketch/)
 
-More soon..
+Still very much a work in progress..
